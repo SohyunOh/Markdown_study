@@ -1,12 +1,10 @@
 # Markdown_study
-
-#
 # 마크다운 언어 
 
-## 작업 환경
-- vs code로 실행함
-- ctrl+shift + P 로 파렛트 창 오픈
-- Makrdown previwe 로 md 형식의 창을 미리 확인 가능
+## 나의 작업 환경
+  - vs code로 실행함
+  - ctrl+shift + P 로 파렛트 창 오픈
+  - Makrdown previwe 로 md 형식의 창을 미리 확인 가능
 
 
 # 마크다운 (markdown)
@@ -46,7 +44,7 @@ ordered
 # 이미지 (Images)
 ```
 첫번째 방법
-![github logo](/ingees/markdown_logo.jpg)
+![Github logo](/images/markdown_logo.jpg) 
 Format: ![이미지 alt명](url 링크)
 
 두번째 방법 
@@ -54,7 +52,7 @@ Format: ![이미지 alt명](url 링크)
 Format: img태그 사용 - 이미지 경로는 상재경로 or 절대결로
 ```
 ![Github logo](/images/markdown_logo.jpg)
-   
+
    
 # 하이퍼링크(Link)
 ```
